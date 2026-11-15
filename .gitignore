@@ -1,0 +1,22 @@
+# Build artifacts
+build/
+*.o
+*.obj
+*.exe
+*.out
+
+# Test and coverage artifacts
+*.gcda
+*.gcno
+*.gcov
+
+# Editor and operating-system artifacts
+.vscode/*
+!.vscode/extensions.json
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.DS_Store
+Thumbs.db
+*.user
+*.suo
